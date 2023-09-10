@@ -28,4 +28,4 @@
  <a href="https://w.app/F5IxrK" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/jotahubb/jotahubb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jotahubb/jotahubb/blob/output/github-contribution-grid-snake.svg)
