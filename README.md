@@ -4,9 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/jotahubb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotahubb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotahubb&layout=compact&langs_count=8&theme=dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jotahubb&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf%text_color=c9d1d9&bg_color=0d1117" alt="jotahubb stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotahubb&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117"/>
 </div>
+<div style="display: inline_block"><br>
 
 
 
