@@ -1,4 +1,6 @@
-## Eaii, Eu sou João Paulo (Jota) estudante de programação e tecnologia!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Jota%20&fontColor=#fff&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+João+Paulo+!;SOU+ESTUDANTE+Full-Stack❤️)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/jotahubb">
@@ -16,7 +18,15 @@
   <img align="center" alt="Jota-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jota-Java" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />         
 </div>
-  
+
+##
+
+<div>
+  Sobre mim:
+
+> Full-Stack developer who believes that technology has the power to change lives and the in opportunities it provides.I seek to expand my knowledge and improve my skills...
+</div>
+
   ##
  
 <div> 
@@ -28,4 +38,13 @@
  <a href="https://w.app/F5IxrK" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/jotahubb/jotahubb/blob/output/github-contribution-grid-snake.svg)
+```java
+if (contratado == False){
+    System.out.println("Feliz da vida!!!");
+}
+else {
+    System.out.println("Continuarei tentando");
+}
+```
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>
