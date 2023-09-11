@@ -40,7 +40,7 @@
 </div>
 
 ```java
-if (contratado == False){
+if (contratado == True){
     System.out.println("Feliz da vida!!!");
 }
 else {
